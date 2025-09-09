@@ -8,6 +8,9 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+Hey @professortocat, I've finished testing out my new Codespace.
+I'm ready to review!
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/HarryOreLara/skills-code-with-codespaces/issues/1)
 
 ---
